@@ -1,0 +1,9 @@
+.gitignore
+.test
+src/__init__.py
+src/__pycache__/
+src/build/
+docs/build/
+.directory
+firstcommit.sh
+autocommit.sh
